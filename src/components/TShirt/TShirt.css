@@ -1,0 +1,16 @@
+.tShirt {
+    height: 400px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.tShirt img {
+    height: 250px;
+}
+
+.tShirt button {
+    height: 30px;
+    background: rgb(224, 224, 32);
+    border: none;
+    border-radius: 5px;
+}
